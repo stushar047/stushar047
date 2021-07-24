@@ -34,7 +34,7 @@ I am basically interested in machine learning, computer vision, image processing
 ## Simulation 
 **Design of a BPSK modulator and demodulator by Proteus.** <br><br>
 **Modeling an Elevator system and designing a PD controller for the system by Simulink. {}**<br><br>
-**12V and 5V battery charging system design for PV panel considering ripple and other constraints by Simulink.**<br><br>
+**12V and 5V battery charging system design for PV panel considering ripple and other constraints by Simulink {https://github.com/stushar047/Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module-}.**<br><br>
 **Modeling and Analysis of Z Folded Solid State Laser Cavity with Two Curved Mirrors in Matlab.**
 **50-700 MHz Broadband Spiral Antenna Design in HFSS.**
 
