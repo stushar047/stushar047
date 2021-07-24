@@ -36,9 +36,9 @@ I am basically interested in machine learning, computer vision, image processing
 [Modeling an Elevator system and designing a PD controller for the system by Simulink.](https://docs.google.com/document/d/1P3vRAhSMe8a7i90OCLwvLAx79Ks7aqwF/edit)
  <br><br>
 [12V and 5V battery charging system design for PV panel considering ripple and other constraints by Simulink.](https://github.com/stushar047/Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module-)<br><br>
-**Modeling and Analysis of Z Folded Solid State Laser Cavity with Two Curved Mirrors in Matlab.**
+[Modeling and Analysis of Z Folded Solid State Laser Cavity with Two Curved Mirrors in Matlab.](https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors)
 <br><br>
-[50-700 MHz Broadband Spiral Antenna Design in HFSS ] (https://github.com/stushar047/Antenna-Design-in-HFSS)
+[50-700 MHz Broadband Spiral Antenna Design in HFSS ](https://github.com/stushar047/Antenna-Design-in-HFSS)
 
 ## Competions
 **Robo Fight, a national robotic competition**, Role: Sensor Data read from an application and Motor Control. {https://www.facebook.com/robo.fight.2014/}<br>
