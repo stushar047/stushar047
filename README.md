@@ -26,7 +26,7 @@ I am basically interested in machine learning, computer vision, image processing
 
 ## Digital Circuit and Microprocessor based project
 
-**Design and implementation of temperature measuring device by thermostats for fire protection system.** <br><br>
+**Design and implementation of temperature measuring device by thermostats for fire protection system.** [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)<br><br>
 **Motion Detection to understand the quality of sleep.**<br><br>
 **Smart Car parking management by wireless sensor network.**<br><br>
 **Designing a digital lock using gate circuit.**<br>
