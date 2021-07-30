@@ -14,7 +14,7 @@ I am basically interested in machine learning, computer vision, image processing
 ## Image Processing and Signal Processing Projects
 
 **Gravity wave detection, vertical and horizontal wavelength determination from satellite images:** Filtering, interpolating and other preprocessing in stratospheric AIRS
-(Atmospheric Infrared Sounder) image and fit a 2DFFT model to measure horizontal wavelength of gravity waves.<br>
+(Atmospheric Infrared Sounder) image and fit a 2DFFT model to measure horizontal wavelength of gravity waves [link](https://github.com/stushar047/Gravity-Wave-Parameterization-from-AIRS-satellie-image).<br>
 <br>
 **Coin Detection using hough circle transformation:** Coin detection, diameter measurement and coin counting using hough circle transformation. Here, redundant coins are suppressed using minimum distance between the center of those detected coins [link](https://github.com/stushar047/Coin-Detector). <br>
 <br>
