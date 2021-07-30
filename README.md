@@ -6,7 +6,7 @@ I am basically interested in machine learning, computer vision, image processing
 
 **Pedestrian Detection and Distance Measurement: (MS Thesis):** Details will be uploaded after publication.
 
-**Peanut Maturity Classification from hyperspectral image:** Segmenting Peanut from background and identify all different peanuts using k-means classification and then classify the maturity of the peanut maturity from the spectral characteristics of hyperspectral image using logistic regression, support vector machine and random forest classifier. <br><br>
+**Peanut Maturity Classification from hyperspectral image:** Segmenting Peanut from background and identify all different peanuts using k-means classification and then classify the maturity of the peanut maturity from the spectral characteristics of hyperspectral image using logistic regression, support vector machine and random forest classifier [link](https://github.com/stushar047/Peanut_Maturity_Classification). <br><br>
 **Emotion recognition from text:** Preprocessing amazon movie review text file with word embedding and word2vec model to create the feature vector and classify the sentiment of the review by Naive Bayes and Random Forest classifier. <br>
 <br>
 **Weather forecasting model:** Forcast weather based on support vector machine and random forest classifier.
