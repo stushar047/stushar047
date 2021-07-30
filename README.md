@@ -13,6 +13,9 @@ I am basically interested in machine learning, computer vision, image processing
 
 ## Image Processing and Signal Processing Projects
 
+**Gravity wave detection, vertical and horizontal wavelength determination from satellite images:** Filtering, interpolating and other preprocessing in stratospheric AIRS
+(Atmospheric Infrared Sounder) image and fit a 2DFFT model to measure horizontal wavelength of gravity waves.<br>
+<br>
 **Coin Detection using hough circle transformation:** Coin detection, diameter measurement and coin counting using hough circle transformation. Here, redundant coins are suppressed using minimum distance between the center of those detected coins [link](https://github.com/stushar047/Coin-Detector). <br>
 <br>
 **Chlorophyll determination from wheat leaf**: Leaf was first segmented from background and then the average L,a,b color indexes of all leaves was calculated. Lastly, Linear regression is used to map chlorophyll with a* and b*. [Paper](https://www.researchgate.net/publication/332586475_A_Lowcost_Image_Processing_Based_Technique_to_Estimate_Chlorophyll_in_Winter_Wheat)<br> 
