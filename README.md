@@ -43,7 +43,7 @@ I am basically interested in machine learning, computer vision, image processing
 <br><br>
 [50-700 MHz Broadband Spiral Antenna Design in HFSS ](https://github.com/stushar047/Antenna-Design-in-HFSS)
 
-## Competions
+## Competitions
 **Robo Fight, a national robotic competition**, Role: Sensor Data read from an application and Motor Control [link](https://www.facebook.com/robo.fight.2014/)<br>
 <br>
 **International Battle of Speed, a Line Following Robotic Competition**, Role: IR based sensor network design, data management and motor control for line following. [link](https://www.facebook.com/events/d41d8cd9/international-engineering-innovation-summit-bangladesh-2015/1565516937041763/)
