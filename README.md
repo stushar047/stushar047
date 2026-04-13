@@ -12,10 +12,10 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
   [link](https://github.com/stushar047/Peanut_Maturity_Classification), [paper](https://ieeexplore.ieee.org/document/9911049)
 
 - **Pedestrian Detection and Distance Measurement (MS Thesis)**  
-  [link](https://github.com/stushar047/Pedestrian_Detection),[thesis]([https://github.com/stushar047/Emotion-from-Text](https://digital.library.txst.edu/items/28c90d7f-cc88-4358-a654-9b46173ffac6)
+  [link](https://github.com/stushar047/Pedestrian_Detection),[paper](https://digital.library.txst.edu/items/28c90d7f-cc88-4358-a654-9b46173ffac6)
 
 - **Smartphone-Based Color Matching for Smart Textiles**  
-  [link](no_repo_yet),[paper]([https://github.com/stushar047/Emotion-from-Text](https://ieeexplore.ieee.org/abstract/document/10499484))
+  [link](no_repo_yet),[paper](https://ieeexplore.ieee.org/abstract/document/10499484))
 
 ---
 
