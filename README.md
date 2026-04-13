@@ -122,7 +122,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🎓 Training
+## Training
 - **Industrial Training (Electrical & Instrumentation)**  
   Training Institute for Chemical Industries, Bangladesh  
   [link](https://www.lawyersnjurists.com/article/training-institute-chemical-industries-polash-narshingdi-1611/)
