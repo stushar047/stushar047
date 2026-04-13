@@ -4,7 +4,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🚀 ML for Computer Vision Projects
+## ML for Computer Vision Projects
 - **High Accuracy Keyway Angle Identification using VGG16-based Learning**  
   [link](https://github.com/stushar047/Peanut_Maturity_Classification)
 
@@ -31,7 +31,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🧠 Neuromorphic / Hardware-Aware Learning
+## Neuromorphic / Hardware-Aware Learning
 - **Memristive Hardware-Aware Learning & Optimization**  
   [link](https://github.com/stushar047/Emotion-from-Text)
 
@@ -46,7 +46,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🎯 Reinforcement Learning / Evolutionary Optimization
+## Reinforcement Learning / Evolutionary Optimization
 - **Ludu Game Agent**  
   [link](https://github.com/stushar047/Emotion-from-Text)
 
@@ -55,7 +55,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 📡 Image & Signal Processing
+## Image & Signal Processing
 - **Chlorophyll Estimation in Wheat (Low-Cost Image Processing)**  
   [link](https://github.com/stushar047/Emotion-from-Text)
 
@@ -70,7 +70,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🛠️ Tools
+## Tools
 - **NeuroPAT: Neuromorphic Energy Estimator**  
   [link](https://github.com/stushar047/Emotion-from-Text)
 
@@ -85,7 +85,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🔌 Digital & Embedded Systems
+## Digital & Embedded Systems
 - **Temperature Measurement System (Fire Protection)**  
   [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)
 
@@ -95,7 +95,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 📊 Modeling & Simulation
+## Modeling & Simulation
 - **Z-Folded Solid State Laser Cavity Analysis**  
   [link](https://github.com/stushar047/Emotion-from-Text)
 
@@ -111,7 +111,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## 🏆 Competitions
+## Competitions
 - **Robo Fight (National Robotics Competition)**  
   Role: Sensor data processing & motor control  
   [link](https://www.facebook.com/robo.fight.2014/)
