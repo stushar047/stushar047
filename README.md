@@ -20,7 +20,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 - **In-Memory Template Matching with Approximated PCC (Memristive Systems)**  [repo](https://github.com/stushar047/Template_Matching), [paper](https://ieeexplore.ieee.org/document/11014325)
 
-- **In-Sensor Motion Recognition with Memristive Systems**  [repo](https://github.com/stushar047/WTA-testing-cadence), [paper]([link_here_if_available](https://ieeexplore.ieee.org/document/10682634))
+- **In-Sensor Motion Recognition with Memristive Systems**  [repo](https://github.com/stushar047/WTA-testing-cadence), [paper](https://ieeexplore.ieee.org/document/10682634))
 
 - **In-Memory MRI Reconstruction & Brain Tumor Segmentation**  [repo](https://github.com/stushar047/CS425_Project)
 
