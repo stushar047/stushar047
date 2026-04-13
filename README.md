@@ -16,15 +16,13 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 ---
 
-## ⚡ Resource-Constrained Computer Vision
-- **In-Memory Template Matching with Approximated PCC (Memristive Systems)**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+## Resource-Constrained Computer Vision
 
-- **In-Sensor Motion Recognition with Memristive Systems**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **In-Memory Template Matching with Approximated PCC (Memristive Systems)**  [repo](https://github.com/stushar047/Template_Matching), [paper](https://ieeexplore.ieee.org/document/11014325)
 
-- **In-Memory MRI Reconstruction & Brain Tumor Segmentation**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **In-Sensor Motion Recognition with Memristive Systems**  [repo](https://github.com/stushar047/WTA-testing-cadence), [paper]([link_here_if_available](https://ieeexplore.ieee.org/document/10682634))
+
+- **In-Memory MRI Reconstruction & Brain Tumor Segmentation**  [repo](https://github.com/stushar047/CS425_Project)
 
 ---
 
