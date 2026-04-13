@@ -1,53 +1,132 @@
-
 # Hi, it is Tushar
-I am basically interested in machine learning, computer vision, image processing, computer architecture
 
-## Machine Learning Projects
+I am interested in neuromorphic computing, machine learning, computer vision, image/signal processing, and computer architecture.
 
-**Pedestrian Detection and Distance Measurement: (MS Thesis):** Details will be uploaded after publication.
+---
 
-**Peanut Maturity Classification from hyperspectral image:** Segmenting Peanut from background and identify all different peanuts using k-means classification and then classify the maturity of the peanut maturity from the spectral characteristics of hyperspectral image using logistic regression, support vector machine and random forest classifier [link](https://github.com/stushar047/Peanut_Maturity_Classification). <br><br>
-**Emotion recognition from text:** Preprocessing amazon movie review text file with word embedding and word2vec model to create the feature vector and classify the sentiment of the review by Naive Bayes and Random Forest classifier [link](https://github.com/stushar047/Emotion-from-Text). <br>
-<br>
-**Weather forecasting model:** Forcast weather based on support vector machine and random forest classifier [link](https://github.com/stushar047/Weather_Forecast).
+## 🚀 ML for Computer Vision Projects
+- **High Accuracy Keyway Angle Identification using VGG16-based Learning**  
+  [link](https://github.com/stushar047/Peanut_Maturity_Classification)
 
-## Image Processing and Signal Processing Projects
+- **Peanut Maturity Classification from Hyperspectral Image**  
+  [link](https://github.com/stushar047/Peanut_Maturity_Classification)
 
-**Gravity wave detection, vertical and horizontal wavelength determination from satellite images:** Filtering, interpolating and other preprocessing in stratospheric AIRS
-(Atmospheric Infrared Sounder) image and fit a 2DFFT model to measure horizontal wavelength of gravity waves [link](https://github.com/stushar047/Gravity-Wave-Parameterization-from-AIRS-satellie-image).<br>
-<br>
-**Coin Detection using hough circle transformation:** Coin detection, diameter measurement and coin counting using hough circle transformation. Here, redundant coins are suppressed using minimum distance between the center of those detected coins [link](https://github.com/stushar047/Coin-Detector). <br>
-<br>
-**Chlorophyll determination from wheat leaf**: Leaf was first segmented from background and then the average L,a,b color indexes of all leaves was calculated. Lastly, Linear regression is used to map chlorophyll with a* and b*. [Paper](https://www.researchgate.net/publication/332586475_A_Lowcost_Image_Processing_Based_Technique_to_Estimate_Chlorophyll_in_Winter_Wheat)<br> 
-<br>
-**MATLAB based sensor coverage visualization:** Visualization of the coverage of a sensor network for tracking with the change of angle and position of the sensors. 
-<br><br>
-**Matching Leaf with LCC based on correlation coefficient:** Take pearson correlation coefficient of a rice leaf with all 4 strips Leaf Color Chart provided by BARRI (Bangladesh Rice Research Institute) to figure out the fertilization requirements. 
-<br>
-<br>
-**Design of FIR filter:** Design efficient FIR filter for noise removal from recorded voice signal in MATLAB. 
+- **Pedestrian Detection and Distance Measurement (MS Thesis)**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
 
-## Digital Circuit and Microprocessor based project
+- **Smartphone-Based Color Matching for Smart Textiles**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
 
-**Design and implementation of temperature measuring device by thermostats for fire protection system.** [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)<br><br>
-**Motion Detection to understand the quality of sleep.**<br><br>
-**Smart Car parking management by wireless sensor network.**<br><br>
-**Designing a digital lock using gate circuit.**<br>
+---
 
-## Simulation 
-**Design of a BPSK modulator and demodulator by Proteus.** <br><br>
-[Modeling an Elevator system and designing a PD controller for the system by Simulink.](https://docs.google.com/document/d/1P3vRAhSMe8a7i90OCLwvLAx79Ks7aqwF/edit)
- <br><br>
-[12V and 5V battery charging system design for PV panel considering ripple and other constraints by Simulink.](https://github.com/stushar047/Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module-)<br><br>
-[Modeling and Analysis of Z Folded Solid State Laser Cavity with Two Curved Mirrors in Matlab.](https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors)
-<br><br>
-[50-700 MHz Broadband Spiral Antenna Design in HFSS ](https://github.com/stushar047/Antenna-Design-in-HFSS)
+## ⚡ Resource-Constrained Computer Vision
+- **In-Memory Template Matching with Approximated PCC (Memristive Systems)**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
 
-## Competitions
-**Robo Fight, a national robotic competition**, Role: Sensor Data read from an application and Motor Control [link](https://www.facebook.com/robo.fight.2014/)<br>
-<br>
-**International Battle of Speed, a Line Following Robotic Competition**, Role: IR based sensor network design, data management and motor control for line following. [link](https://www.facebook.com/events/d41d8cd9/international-engineering-innovation-summit-bangladesh-2015/1565516937041763/)
+- **In-Sensor Motion Recognition with Memristive Systems**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
 
-## Training
-**Title:** Industrial Technology on Electrical Engineering and Instrumentation **Institute:** Training Institute For Chemical Industries, Polash, Narsingdi, Bangladesh [link](https://www.lawyersnjurists.com/article/training-institute-chemical-industries-polash-narshingdi-1611/)<br><br>
-**Title:** Programmable Logic Controller (PLC) **Institute:** Institute of Energy and Technology, Chittagong University of Engineering & Technology, Chittagong, Bangladesh [link](http://www.cuet.ac.bd/index.php/institute/iet)
+- **In-Memory MRI Reconstruction & Brain Tumor Segmentation**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+---
+
+## 🧠 Neuromorphic / Hardware-Aware Learning
+- **Memristive Hardware-Aware Learning & Optimization**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **Reliability Analysis of Memristive Reservoir Computing**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **Refractory Optimization in SNN (Rule-Based Greedy Method)**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **Sleep-Inspired Learning Algorithm**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+---
+
+## 🎯 Reinforcement Learning / Evolutionary Optimization
+- **Ludu Game Agent**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **Character Prediction**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+---
+
+## 📡 Image & Signal Processing
+- **Chlorophyll Estimation in Wheat (Low-Cost Image Processing)**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **Gravity Wave Detection from Satellite Images**  
+  [link](https://github.com/stushar047/Gravity-Wave-Parameterization-from-AIRS-satellie-image)
+
+- **Coin Detection using Hough Transform**  
+  [link](https://github.com/stushar047/Coin-Detector)
+
+- **Chlorophyll Determination (Research Paper)**  
+  [Paper](https://www.researchgate.net/publication/332586475_A_Lowcost_Image_Processing_Based_Technique_to_Estimate_Chlorophyll_in_Winter_Wheat)
+
+---
+
+## 🛠️ Tools
+- **NeuroPAT: Neuromorphic Energy Estimator**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- **FIR Filter Design (MATLAB)**  
+  Efficient noise removal from voice signals
+
+- **Sensor Coverage Visualization (MATLAB)**  
+  Sensor network coverage analysis
+
+- **Leaf Matching using Pearson Correlation (LCC)**  
+  Fertilization analysis using rice leaf color charts
+
+---
+
+## 🔌 Digital & Embedded Systems
+- **Temperature Measurement System (Fire Protection)**  
+  [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)
+
+- Motion Detection for Sleep Analysis  
+- Smart Parking using Wireless Sensor Networks  
+- Digital Lock using Logic Gates  
+
+---
+
+## 📊 Modeling & Simulation
+- **Z-Folded Solid State Laser Cavity Analysis**  
+  [link](https://github.com/stushar047/Emotion-from-Text)
+
+- BPSK Modulator/Demodulator (Proteus)
+
+- [Elevator System Modeling with PD Controller](https://docs.google.com/document/d/1P3vRAhSMe8a7i90OCLwvLAx79Ks7aqwF/edit)
+
+- [PV Battery Charging System Design (Simulink)](https://github.com/stushar047/Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module-)
+
+- [Laser Cavity Analysis (ResearchGate)](https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors)
+
+- [Broadband Spiral Antenna Design (HFSS)](https://github.com/stushar047/Antenna-Design-in-HFSS)
+
+---
+
+## 🏆 Competitions
+- **Robo Fight (National Robotics Competition)**  
+  Role: Sensor data processing & motor control  
+  [link](https://www.facebook.com/robo.fight.2014/)
+
+- **International Battle of Speed (Line Following Robot)**  
+  Role: Sensor design & control  
+  [link](https://www.facebook.com/events/d41d8cd9/international-engineering-innovation-summit-bangladesh-2015/1565516937041763/)
+
+---
+
+## 🎓 Training
+- **Industrial Training (Electrical & Instrumentation)**  
+  Training Institute for Chemical Industries, Bangladesh  
+  [link](https://www.lawyersnjurists.com/article/training-institute-chemical-industries-polash-narshingdi-1611/)
+
+- **Programmable Logic Controller (PLC)**  
+  CUET, Bangladesh  
+  [link](http://www.cuet.ac.bd/index.php/institute/iet)
