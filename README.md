@@ -12,7 +12,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 - **Pedestrian Detection and Distance Measurement (MS Thesis)**  [repo](https://github.com/stushar047/Pedestrian_Detection), [paper](https://digital.library.txst.edu/items/28c90d7f-cc88-4358-a654-9b46173ffac6)
 
-- **Smartphone-Based Color Matching for Smart Textiles**  repo: coming soon, [paper](https://ieeexplore.ieee.org/abstract/document/10499484)
+- **Smartphone-Based Color Matching for Smart Textiles**  [paper](https://ieeexplore.ieee.org/abstract/document/10499484)
 
 ---
 
