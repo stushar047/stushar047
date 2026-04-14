@@ -27,17 +27,12 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 ---
 
 ## Neuromorphic / Hardware-Aware Learning
-- **Memristive Hardware-Aware Learning & Optimization**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Memristive Hardware-Aware Learning & Optimization**  [repo](https://github.com/stushar047/Memristive-Network-for-ML-Neuromorphic), [paper1](https://ieeexplore.ieee.org/document/10214420), [paper2](https://ieeexplore.ieee.org/document/10558518), [paper3](https://ieeexplore.ieee.org/document/11244319), [paper4](https://ieeexplore.ieee.org/document/11244459), [paper5](https://ieeexplore.ieee.org/document/10406062)
 
-- **Reliability Analysis of Memristive Reservoir Computing**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Reliability Analysis of Memristive Reservoir Computing**  [paper](https://dl.acm.org/doi/10.1145/3583781.3590210)
 
-- **Refractory Optimization in SNN (Rule-Based Greedy Method)**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
-
-- **Sleep-Inspired Learning Algorithm**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Refractory Optimization in SNN (Rule-Based Greedy Method)**  [repo](https://github.com/stushar047/Rule-Based-Greedy-for-SNN/tree/main)[paper](not online yet)
+- **Sleep-Inspired Learning Algorithm**  A paper has been submitted to ICONS. For collaborative research and code, please talk to me.
 
 ---
 
