@@ -32,10 +32,8 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 - **Reliability Analysis of Memristive Reservoir Computing**  [paper](https://dl.acm.org/doi/10.1145/3583781.3590210)
 
 - **Refractory Optimization in SNN (Rule-Based Greedy Method)**  [repo](https://github.com/stushar047/Rule-Based-Greedy-for-SNN) (paper_not_online yet)
-- 
+  
 - **Sleep-Inspired Learning Algorithm**  A paper has been submitted to ICONS. For collaborative research and code, please talk to me.
-
----
 
 ## Reinforcement Learning / Evolutionary Optimization/ Few Shots Learning
 - **Deep Q-Network methods to play board game (Ludo)**  
