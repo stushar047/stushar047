@@ -70,8 +70,6 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
   
 - Digital Lock using Logic Gates  
 
----
-
 ## Modeling & Simulation
 - **Z-Folded Solid State Laser Cavity Analysis**: [link]((https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors))  
 
@@ -86,21 +84,13 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 ---
 
 ## Competitions
-- **Robo Fight (National Robotics Competition)**  
-  Role: Sensor data processing & motor control  
-  [link](https://www.facebook.com/robo.fight.2014/)
+- **Robo Fight (National Robotics Competition)**, Role: Sensor data processing & motor control -- [link](https://www.facebook.com/robo.fight.2014/)
 
-- **International Battle of Speed (Line Following Robot)**  
-  Role: Sensor design & control  
-  [link](https://www.facebook.com/events/d41d8cd9/international-engineering-innovation-summit-bangladesh-2015/1565516937041763/)
+- **International Battle of Speed (Line Following Robot)**, Role: Sensor design & control -- [link](https://www.facebook.com/events/d41d8cd9/international-engineering-innovation-summit-bangladesh-2015/1565516937041763/)
 
 ---
 
 ## Training
-- **Industrial Training (Electrical & Instrumentation)**  
-  Training Institute for Chemical Industries, Bangladesh  
-  [link](https://www.lawyersnjurists.com/article/training-institute-chemical-industries-polash-narshingdi-1611/)
+- **Industrial Training (Electrical & Instrumentation)**, Training Institute for Chemical Industries, Bangladesh -- [link](https://www.lawyersnjurists.com/article/training-institute-chemical-industries-polash-narshingdi-1611/)
 
-- **Programmable Logic Controller (PLC)**  
-  CUET, Bangladesh  
-  [link](http://www.cuet.ac.bd/index.php/institute/iet)
+- **Programmable Logic Controller (PLC)**, CUET, Bangladesh -- [link](http://www.cuet.ac.bd/index.php/institute/iet)
