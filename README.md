@@ -59,8 +59,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 
 ## Digital & Embedded Systems
-- **Temperature Measurement System (Fire Protection)**  
-  [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)
+- **Temperature Measurement System (Fire Protection)**  [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)
 
 - Motion Detection for Sleep Analysis using Arduiono UNO
     
