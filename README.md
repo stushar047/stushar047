@@ -31,71 +31,55 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 
 - **Reliability Analysis of Memristive Reservoir Computing**  [paper](https://dl.acm.org/doi/10.1145/3583781.3590210)
 
-- **Refractory Optimization in SNN (Rule-Based Greedy Method)**  [repo](https://github.com/stushar047/Rule-Based-Greedy-for-SNN/tree/main) (paper_not_online yet)
+- **Refractory Optimization in SNN (Rule-Based Greedy Method)**  [repo](https://github.com/stushar047/Rule-Based-Greedy-for-SNN) (paper_not_online yet)
+- 
 - **Sleep-Inspired Learning Algorithm**  A paper has been submitted to ICONS. For collaborative research and code, please talk to me.
 
 ---
 
-## Reinforcement Learning / Evolutionary Optimization
-- **Ludu Game Agent**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+## Reinforcement Learning / Evolutionary Optimization/ Few Shots Learning
+- **Deep Q-Network methods to play board game (Ludo)**  
+  [link](https://github.com/stushar047/Ludu_RL)
 
-- **Character Prediction**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Character Prediction using evolutionary Algorithm** 
 
----
+- **Few Shots Learning**: [link](https://github.com/stushar047/Few-shots) 
 
 ## Image & Signal Processing
-- **Chlorophyll Estimation in Wheat (Low-Cost Image Processing)**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Chlorophyll Estimation in Wheat (Low-Cost Image Processing)**   [Paper](https://www.researchgate.net/publication/332586475_A_Lowcost_Image_Processing_Based_Technique_to_Estimate_Chlorophyll_in_Winter_Wheat)  
 
-- **Gravity Wave Detection from Satellite Images**  
-  [link](https://github.com/stushar047/Gravity-Wave-Parameterization-from-AIRS-satellie-image)
+- **Gravity Wave Detection from Satellite Images**  [link](https://github.com/stushar047/Gravity-Wave-Parameterization-from-AIRS-satellie-image)
 
-- **Coin Detection using Hough Transform**  
-  [link](https://github.com/stushar047/Coin-Detector)
-
-- **Chlorophyll Determination (Research Paper)**  
-  [Paper](https://www.researchgate.net/publication/332586475_A_Lowcost_Image_Processing_Based_Technique_to_Estimate_Chlorophyll_in_Winter_Wheat)
-
----
+- **Coin Detection using Hough Transform**  [link](https://github.com/stushar047/Coin-Detector)
 
 ## Tools
-- **NeuroPAT: Neuromorphic Energy Estimator**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **NeuroPAT: Neuromorphic Energy Estimator**: Requires a number of tools, contact for collaborative research
 
-- **FIR Filter Design (MATLAB)**  
-  Efficient noise removal from voice signals
+- **FIR Filter Design (MATLAB)**: Efficient noise removal from voice signals
 
-- **Sensor Coverage Visualization (MATLAB)**  
-  Sensor network coverage analysis
+- **Sensor Coverage Visualization (MATLAB)**: Sensor network coverage analysis
 
-- **Leaf Matching using Pearson Correlation (LCC)**  
-  Fertilization analysis using rice leaf color charts
-
----
 
 ## Digital & Embedded Systems
 - **Temperature Measurement System (Fire Protection)**  
   [link](https://github.com/stushar047/-Instrumentation-of-a-digital-thermometer-using-PIC-microcontroller-and-thermistor)
 
-- Motion Detection for Sleep Analysis  
-- Smart Parking using Wireless Sensor Networks  
+- Motion Detection for Sleep Analysis using Arduiono UNO
+    
+- Smart Parking using Wireless Sensor Networks
+  
 - Digital Lock using Logic Gates  
 
 ---
 
 ## Modeling & Simulation
-- **Z-Folded Solid State Laser Cavity Analysis**  
-  [link](https://github.com/stushar047/Emotion-from-Text)
+- **Z-Folded Solid State Laser Cavity Analysis**: [link]((https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors))  
 
 - BPSK Modulator/Demodulator (Proteus)
 
 - [Elevator System Modeling with PD Controller](https://docs.google.com/document/d/1P3vRAhSMe8a7i90OCLwvLAx79Ks7aqwF/edit)
 
 - [PV Battery Charging System Design (Simulink)](https://github.com/stushar047/Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module-)
-
-- [Laser Cavity Analysis (ResearchGate)](https://www.researchgate.net/publication/325155335_Modeling_and_Analysis_of_Z_Folded_Solid_State_Laser_Cavity_with_Two_Curved_Mirrors)
 
 - [Broadband Spiral Antenna Design (HFSS)](https://github.com/stushar047/Antenna-Design-in-HFSS)
 
