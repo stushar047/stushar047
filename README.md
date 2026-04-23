@@ -31,7 +31,7 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 ## Reinforcement Learning / Evolutionary Optimization/ Few Shots Learning
 - **Deep Q-Network methods to play board game (Ludo)**  [repo](https://github.com/stushar047/Ludu_RL)
 - **Eprop algorithm with Neko**: [reop](https://github.com/stushar047/Eprop-with-neko) 
-- **Character Prediction using evolutionary Algorithm** 
+- **Character Prediction using evolutionary Algorithm**: [repo](https://github.com/stushar047/CS527_Project) 
 - **Few Shots Learning**: [repo](https://github.com/stushar047/Few-shots)
 - **Emotion from Text**: [repo](https://github.com/stushar047/Emotion-from-Text)
 - **Weather Forecasting**: [repo](https://github.com/stushar047/Weather_Forecast)
@@ -42,7 +42,8 @@ I am interested in neuromorphic computing, machine learning, computer vision, im
 - **Coin Detection using Hough Transform**  [repo](https://github.com/stushar047/Coin-Detector)
 - **Image Reconstruction using a nonlocal operator**: [repo](https://github.com/stushar047/Image-Reconstruction)
 
-## Tools
+## SOC/Tools
+- **SOC design for convolution of signal**: [repo](https://github.com/stushar047/ECE551_Project)
 - **NeuroPAT: Neuromorphic Energy Estimator**: Requires a number of tools, contact for collaborative research
 - **FIR Filter Design (MATLAB)**: Efficient noise removal from voice signals
 - **Sensor Coverage Visualization (MATLAB)**: Sensor network coverage analysis
